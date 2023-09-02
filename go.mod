@@ -3,8 +3,8 @@ module github.com/onaok/braive
 go 1.20
 
 require (
-	github.com/kevinburke/go-bindata v1.1.0
-	github.com/onaok/kernal v0.0.0-20230902151544-f6fb290a4d32
+	github.com/kevinburke/go-bindata v3.24.0+incompatible
+	github.com/onaok/kernal v1.57.57
 )
 
 require (
